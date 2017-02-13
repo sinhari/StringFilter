@@ -1,0 +1,6 @@
+C:\BNP\StringFilter\StringFilter\bin\Debug\StringFilter.exe.config
+C:\BNP\StringFilter\StringFilter\bin\Debug\StringFilter.exe
+C:\BNP\StringFilter\StringFilter\bin\Debug\StringFilter.pdb
+C:\BNP\StringFilter\StringFilter\obj\Debug\StringFilter.csprojResolveAssemblyReference.cache
+C:\BNP\StringFilter\StringFilter\obj\Debug\StringFilter.exe
+C:\BNP\StringFilter\StringFilter\obj\Debug\StringFilter.pdb
